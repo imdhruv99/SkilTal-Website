@@ -1,2 +1,2 @@
-# SkilTal-Website
-SkilTal Website Development
+# EducateTemplate
+Educational Website Template
