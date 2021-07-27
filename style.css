@@ -1243,7 +1243,7 @@ body {
     position: relative;
 }
 .testimonial-area:after {
-    background: rgba(45, 62, 80, 0.9) none repeat scroll 0 0;
+    background: rgba(37, 60, 44, 0.9) none repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -1544,6 +1544,13 @@ body {
     font-size: 12px;
     padding: 18px 0;
 }
+
+.btn-download {
+    color: #ffffff;
+    background-color: #efc315;
+    border-color: #efc315;
+}
+
 .column-right {float: right}
 .footer-area span a {color: #ffffff;}
 .footer-area span a:hover {border-bottom: 1px solid #ffffff;}
@@ -2054,7 +2061,7 @@ span.comment-time {padding-right: 3px; position: relative;}
 .breadcrumb-banner-area.no-bg {background: rgba(0, 0, 0, 0) none repeat scroll 0 0;}
 .breadcrumb-text {z-index: 9; position: relative;}
 .breadcrumb-banner-area:after {
-    background: rgba(45, 62, 80, 0.8) none repeat scroll 0 0;
+    background: rgba(37, 60, 44, 0.8) none repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
