@@ -1309,6 +1309,8 @@ body {
     top: 34.6%;
     width: 16px;
 }
+
+
 .slick-prev {left: -31px}
 .slick-next {right: -31px}
 .slick-prev:before, .slick-next:before {
