@@ -1,32 +1,31 @@
 @font-face {
-    font-family: "IBM Plex Sans Roman";
-    src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/85648/IBMPlexSansVar-Roman.ttf");
-  }
+  font-family: "IBM Plex Sans Roman";
+  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/85648/IBMPlexSansVar-Roman.ttf");
+}
 
 .coming-soon {
-    text-align: center;
-    color: #EFC315;
+  text-align: center;
+  color: #EFC315;
 }
 
 .cs {
-    font-size: 5em;
-    margin-right: 20px;
-    font-weight: bold;
-    font-family: "IBM Plex Sans Roman", Times;
-    text-shadow: .03em .03em 0 rgb(204, 194, 50);
-    animation: float 3s linear infinite;
-    animation-direction: alternate;
+  font-size: 50px;
+  margin-right: 20px;
+  font-weight: bold;
+  font-family: "IBM Plex Sans Roman", Times;
+  text-shadow: .03em .03em 0 rgb(204, 194, 50);
+  animation: float 3s linear infinite;
+  animation-direction: alternate;
 }
 
 @keyframes float {
-  from { transform: rotate(5deg); }
-  to { transform: rotate(-5deg); }
+from { transform: rotate(5deg); }
+to { transform: rotate(-5deg); }
 }
 
 .coming-soon-image {
-    margin-top: 20px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-
