@@ -2332,7 +2332,7 @@ span.c-text {display: inline-block;}
 /*----------------------------------------*/
 /*  24. About Page
 /*----------------------------------------*/
-.teachers-area.padding-top {padding: 120px 0 140px;}
+.teachers-area.padding-top {padding: 0px 0px 140px;}
 .about-page-area .about-text-container p span {
     color: #333333;
     font-family: "montserratregular";
