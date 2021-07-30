@@ -1551,6 +1551,24 @@ body {
     color: #ffffff;
     background-color: #efc315;
     border-color: #efc315;
+    padding: 10px 10px;
+}
+
+.btn-slider {
+    color: #ffffff;
+    background-color: #efc315;
+    border-color: #efc315;
+    padding: 20px 30px;
+    font-size: 16px;
+}
+
+.btn-larger {
+    color: #ffffff;
+    background-color: #efc315;
+    border-color: #efc315;
+    padding: 20px 45px;
+    font-size: 16px;
+    border-radius: 45.7%;
 }
 
 .column-right {float: right}
