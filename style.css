@@ -1567,8 +1567,7 @@ body {
     background-color: #efc315;
     border-color: #efc315;
     padding: 20px 45px;
-    font-size: 16px;
-    border-radius: 45.7%;
+    font-size: 1.3em;
 }
 
 .column-right {float: right}
