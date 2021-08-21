@@ -71,6 +71,10 @@
   border-radius: 50%;
 }
 
+.aim-clean .item img {
+  max-width: 260px;
+}
+
 .team-clean .social {
   font-size: 18px;
   color: #a2a8ae;
