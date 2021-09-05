@@ -1147,7 +1147,7 @@ body {
 /*----------------------------------------*/
 /*  7. Latest News Area
 /*----------------------------------------*/
-.latest-area {padding: 120px 0 70px;}
+.latest-area {padding: 120px 0 0px;}
 .single-latest-text > h3 {
     font-family: raleway;
     font-size: 22px;
